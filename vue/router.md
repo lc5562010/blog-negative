@@ -52,3 +52,8 @@
 - pushState通过stateObject可以添加任意类型的数据记录中，而hash只可添加短字符串
 
 - pushState可额外设置title属性供后续使用
+
+
+#### 参考链接
+
+[vue：路由实现原理](https://segmentfault.com/a/1190000014822765?utm_source=tag-newest)

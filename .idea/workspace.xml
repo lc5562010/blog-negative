@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eef0060-6a67-46bb-b799-787191542ec7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/router.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/router.md" beforeDir="false" afterPath="$PROJECT_DIR$/vue/router.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/vue/生命周期.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="-153" />
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -37,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/vue/router.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="355">
-                <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <first_editor relative-caret-position="399">
+                <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -125,7 +122,7 @@
       <workItem from="1567668709660" duration="324000" />
       <workItem from="1567669056311" duration="998000" />
       <workItem from="1568201064954" duration="1920000" />
-      <workItem from="1568270381915" duration="846000" />
+      <workItem from="1568270381915" duration="1137000" />
     </task>
     <task id="LOCAL-00001" summary="增加vue">
       <created>1567669550035</created>
@@ -138,7 +135,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4670000" />
+    <option name="totallyTimeSpent" value="4961000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -151,8 +148,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4981685" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4981685" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" sideWeight="0.50183153" side_tool="true" weight="0.24947146" />
       <window_info id="Favorites" order="2" sideWeight="0.50183153" side_tool="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -233,7 +231,7 @@
     <entry file="file://$PROJECT_DIR$/vue/生命周期.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="-153" />
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
@@ -243,8 +241,8 @@
     <entry file="file://$PROJECT_DIR$/vue/router.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="355">
-            <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <first_editor relative-caret-position="399">
+            <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
