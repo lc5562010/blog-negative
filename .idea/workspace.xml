@@ -78,8 +78,8 @@
         <entry file="file://$PROJECT_DIR$/js/promise.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="216">
-                <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <first_editor relative-caret-position="196">
+                <caret line="61" selection-start-line="61" selection-end-line="61" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -185,7 +185,7 @@
       <workItem from="1567668709660" duration="324000" />
       <workItem from="1567669056311" duration="998000" />
       <workItem from="1568201064954" duration="1920000" />
-      <workItem from="1568270381915" duration="11927000" />
+      <workItem from="1568270381915" duration="12137000" />
     </task>
     <task id="LOCAL-00001" summary="增加vue">
       <created>1567669550035</created>
@@ -198,7 +198,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15751000" />
+    <option name="totallyTimeSpent" value="15961000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,8 +364,8 @@
     <entry file="file://$PROJECT_DIR$/js/promise.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <first_editor relative-caret-position="196">
+            <caret line="61" selection-start-line="61" selection-end-line="61" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
