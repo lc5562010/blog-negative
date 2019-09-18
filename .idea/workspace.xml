@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eef0060-6a67-46bb-b799-787191542ec7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/eventLoop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/promise.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -52,7 +52,21 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="336">
-                <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+                <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/eventLoop.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1296">
+                <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -62,11 +76,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/eventLoop.md">
+        <entry file="file://$PROJECT_DIR$/js/promise.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="297">
-                <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+              <first_editor relative-caret-position="375">
+                <caret line="25" selection-start-line="25" selection-end-line="25" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -89,6 +103,7 @@
         <option value="$PROJECT_DIR$/vue/vueData.md" />
         <option value="$PROJECT_DIR$/js/防抖节流.md" />
         <option value="$PROJECT_DIR$/js/eventLoop.md" />
+        <option value="$PROJECT_DIR$/js/promise.md" />
       </list>
     </option>
   </component>
@@ -125,6 +140,11 @@
             <path>
               <item name="blog-negative" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog-negative" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog-negative" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog-negative" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,7 +186,7 @@
       <workItem from="1567668709660" duration="324000" />
       <workItem from="1567669056311" duration="998000" />
       <workItem from="1568201064954" duration="1920000" />
-      <workItem from="1568270381915" duration="9982000" />
+      <workItem from="1568270381915" duration="11714000" />
     </task>
     <task id="LOCAL-00001" summary="增加vue">
       <created>1567669550035</created>
@@ -179,7 +199,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13806000" />
+    <option name="totallyTimeSpent" value="15538000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,7 +342,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="336">
-            <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -333,8 +353,20 @@
     <entry file="file://$PROJECT_DIR$/js/eventLoop.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+          <first_editor relative-caret-position="1296">
+            <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/promise.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" selection-start-line="25" selection-end-line="25" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
