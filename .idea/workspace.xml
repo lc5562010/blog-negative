@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eef0060-6a67-46bb-b799-787191542ec7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/promise.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/promise.md" beforeDir="false" afterPath="$PROJECT_DIR$/js/promise.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -79,8 +78,8 @@
         <entry file="file://$PROJECT_DIR$/js/promise.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="375">
-                <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <first_editor relative-caret-position="216">
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -186,7 +185,7 @@
       <workItem from="1567668709660" duration="324000" />
       <workItem from="1567669056311" duration="998000" />
       <workItem from="1568201064954" duration="1920000" />
-      <workItem from="1568270381915" duration="11714000" />
+      <workItem from="1568270381915" duration="11927000" />
     </task>
     <task id="LOCAL-00001" summary="增加vue">
       <created>1567669550035</created>
@@ -199,7 +198,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15538000" />
+    <option name="totallyTimeSpent" value="15751000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -226,7 +225,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964765" weight="0.32923833" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4982382" weight="0.32923833" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989429" visible="true" weight="0.32923833" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4989429" visible="true" weight="0.32923833" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5017618" side_tool="true" weight="0.32923833" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -365,8 +364,8 @@
     <entry file="file://$PROJECT_DIR$/js/promise.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <first_editor relative-caret-position="216">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
