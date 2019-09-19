@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eef0060-6a67-46bb-b799-787191542ec7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/js/promise.md" beforeDir="false" afterPath="$PROJECT_DIR$/js/promise.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/eventLoop.md" beforeDir="false" afterPath="$PROJECT_DIR$/js/eventLoop.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,12 +60,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/eventLoop.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1296">
-                <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+              <first_editor relative-caret-position="2016">
+                <caret line="84" column="3" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="3" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -74,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/promise.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="196">
+              <first_editor relative-caret-position="1313">
                 <caret line="61" selection-start-line="61" selection-end-line="61" />
               </first_editor>
               <second_editor>
@@ -101,8 +101,8 @@
         <option value="$PROJECT_DIR$/vue/router.md" />
         <option value="$PROJECT_DIR$/vue/vueData.md" />
         <option value="$PROJECT_DIR$/js/防抖节流.md" />
-        <option value="$PROJECT_DIR$/js/eventLoop.md" />
         <option value="$PROJECT_DIR$/js/promise.md" />
+        <option value="$PROJECT_DIR$/js/eventLoop.md" />
       </list>
     </option>
   </component>
@@ -185,7 +185,7 @@
       <workItem from="1567668709660" duration="324000" />
       <workItem from="1567669056311" duration="998000" />
       <workItem from="1568201064954" duration="1920000" />
-      <workItem from="1568270381915" duration="12137000" />
+      <workItem from="1568270381915" duration="13139000" />
     </task>
     <task id="LOCAL-00001" summary="增加vue">
       <created>1567669550035</created>
@@ -198,7 +198,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15961000" />
+    <option name="totallyTimeSpent" value="16963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,7 +225,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49964765" weight="0.32923833" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4982382" weight="0.32923833" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4989429" visible="true" weight="0.32923833" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989429" visible="true" weight="0.32923833" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5017618" side_tool="true" weight="0.32923833" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -349,11 +349,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/eventLoop.md">
+    <entry file="file://$PROJECT_DIR$/js/promise.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1296">
-            <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+          <first_editor relative-caret-position="1313">
+            <caret line="61" selection-start-line="61" selection-end-line="61" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -361,11 +361,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/promise.md">
+    <entry file="file://$PROJECT_DIR$/js/eventLoop.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="196">
-            <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <first_editor relative-caret-position="2016">
+            <caret line="84" column="3" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="3" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
