@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eef0060-6a67-46bb-b799-787191542ec7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue/nextTick.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/nextTick.md" beforeDir="false" afterPath="$PROJECT_DIR$/vue/nextTick.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -80,7 +79,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="399">
-                <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+                <caret line="49" column="266" selection-start-line="49" selection-start-column="266" selection-end-line="49" selection-end-column="266" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -203,7 +202,7 @@
       <workItem from="1568201064954" duration="1920000" />
       <workItem from="1568270381915" duration="13325000" />
       <workItem from="1569210745500" duration="668000" />
-      <workItem from="1570860454316" duration="1995000" />
+      <workItem from="1570860454316" duration="2555000" />
     </task>
     <task id="LOCAL-00001" summary="增加vue">
       <created>1567669550035</created>
@@ -216,7 +215,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19812000" />
+    <option name="totallyTimeSpent" value="20372000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -395,7 +394,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="399">
-            <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+            <caret line="49" column="266" selection-start-line="49" selection-start-column="266" selection-end-line="49" selection-end-column="266" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
