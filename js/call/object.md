@@ -27,3 +27,13 @@ Object.prototype.toString.call(e);
 - let array = \[...nodeList]
 
 - Array.from(arguments);
+
+> #### 判断数组类型的方法
+
+- arr instanceof Array
+
+- [].constructor == Array
+
+- Object.prototype.toString.call(arr) === '[object Array]'
+
+- Array.isArray([])
