@@ -38,6 +38,29 @@ computed: {
 - watch一般用于监控路由、input输入框的值特殊处理等等，它比较适合的场景是一个数据影响多个数据
 
 ```
+//监听普通对象
+
+export default {
+  name: 'test1',
+  data () {
+    return {
+      number: 1
+    }
+  },
+  created () {
+    setTimeout(() => {
+      this.number = 100
+    }, 2000)
+  },
+  watch: {
+    number (newVal, oldVal) {
+      console.log('number has changed: ', newVal)
+    }
+  }
+}
+```
+
+```
 //监听对象
 export default {
     data () {
